@@ -21,8 +21,8 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 *Las fechas y temáticas de las ayudantías están sujetas a cambio a lo largo del semestre*
 | Número  | Tema | Fecha | Enunciado |
 | ------- | ---- | ----- | --------- |
-| Ayudantía 1 | ASP y Clingo                                     | 17/03/2025 | - |
-| Ayudantía 2 | Negación y modelación en Clingo	                 | 24/03/2025 | - |
+| Ayudantía 1 | ASP y Clingo                                     | 17/03/2025 | [Enunciado](https://github.com/IIC2613-Inteligencia-Artificial-2025-1/Syllabus/blob/main/Ayudant%C3%ADas/Ayudant%C3%ADa%201%20IIC2613%20-%20ASP%20y%20Clingo%2C%20Instalaci%C3%B3n%20Clingo.pdf) |
+| Ayudantía 2 | Negación y modelación en Clingo	                 | 24/03/2025 | [Enunciado](https://github.com/IIC2613-Inteligencia-Artificial-2025-1/Syllabus/blob/main/Ayudant%C3%ADas/Ayudant%C3%ADa%202%20IIC2613%20-%20Modelaci%C3%B3n%20en%20Clingo.pdf) |
 | Ayudantía 3 | Repaso Tarea 2                                   | 31/03/2025 | - |
 | Ayudantía 4 | Intro a la búsqueda (DFS, BFS, Dijkstra)         | 07/04/2025 | - |
 | Ayudantía 5 | A* y Heurísticas	                               | 14/04/2025 | - |
@@ -42,9 +42,9 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | Jorge Baier                                | Profesor  | jabaier@ing.puc.cl |  |
 | Hans Löbel                                 | Profesor  | halobel@ing.puc.cl | [@halobel](https://github.com/halobel) |
 | Ignacio Antonio Villanueva Domínguez       | Ayudante Coordinador | ignacio.villanueva@uc.cl | [@ignaciovilla](https://github.com/ignaciovilla) |
-| - | Ayudante de Bienestar | - |  |
-| - | Ayudante |  |  |
-| - | Ayudante |  |  |
+| Amanda Sandoval Kuncar | Ayudante de Bienestar | amanda.sandoval@uc.cl | - |
+| Vicente Esteban Cordero Pérez | Ayudante | - | [@vicenteCordero](https://github.com/vicenteCordero) |
+| Benjamín Alexis Santander Maldonado | Ayudante | - | [@Benjaminsantander](https://github.com/Benjaminsantander) |
 | - | Ayudante |  |  |
 | - | Ayudante |  |  |
 | - | Ayudante |  |  |
